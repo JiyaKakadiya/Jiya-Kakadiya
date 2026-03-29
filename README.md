@@ -39,7 +39,7 @@
 
 ## 📫 Connect
 
-* GitHub: (https://github.com/Jiya-Kakadiya)
+* GitHub: (https://github.com/JiyaKakadiya)
 
 ---
 
