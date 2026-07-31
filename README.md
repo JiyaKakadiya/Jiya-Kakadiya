@@ -1,4 +1,4 @@
-# Hi, I'm Jiya 👋
+# Hi, I'm Jiya 
 
 🎓 Data Science Student
 💻 Learning by building real projects
